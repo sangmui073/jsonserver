@@ -300,24 +300,24 @@
   "blogCinemas": [
     {
       "id": 1,
-      "maRap": "bhd-3-2",
+      "maRap": "bhd-star-cineplex-pham-hung",
       "userName": "baoNam",
       "text": "rap cung dep"
     },
     {
       "id": 2,
-      "maRap": "bhd-cong-hoa",
+      "maRap": "bhd-star-cineplex-3-2",
       "userName": "baoNam",
       "text": "rap cung dep"
     },
     {
       "id": 3,
-      "maRap": "bhd-cong-hoa",
+      "maRap": "bhd-star-cineplex-vincom-quang-trung",
       "userName": "baoNam",
       "text": "rap cung dep"
     },
     {
-      "maRap": "bhd-ton-duc-thang",
+      "maRap": "bhd-star-cineplex-bitexco",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626197520659,
@@ -325,7 +325,7 @@
       "id": 4
     },
     {
-      "maRap": "bhd-ton-duc-thang",
+      "maRap": "bhd-star-cineplex-bitexco",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626197532077,
@@ -333,7 +333,7 @@
       "id": 5
     },
     {
-      "maRap": "bhd-ton-duc-thang",
+      "maRap": "bhd-star-cineplex-pham-hung",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240911023,
@@ -341,7 +341,7 @@
       "id": 6
     },
     {
-      "maRap": "bhd-ton-duc-thang",
+      "maRap": "bhd-star-cineplex-pham-hung",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240913364,
@@ -349,7 +349,7 @@
       "id": 7
     },
     {
-      "maRap": "bhd-ton-duc-thang",
+      "maRap": "bhd-star-cineplex-pham-hung",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240920762,
@@ -357,7 +357,7 @@
       "id": 8
     },
     {
-      "maRap": "bhd-ton-duc-thang",
+      "maRap": "bhd-star-cineplex-bitexco",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240922311,
