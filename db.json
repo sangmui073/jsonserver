@@ -1,0 +1,114 @@
+{
+  "cinemas": [
+    {
+      "id": 1,
+      "maRap": "bhd-3-2"
+    }
+  ],
+  "moives": [
+    {
+      "id": 1,
+      "maPhim": 1326
+    }
+  ],
+  "blogCinemas": [
+    {
+      "id": 1,
+      "maRap": "bhd-3-2",
+      "userName": "baoNam",
+      "text": "rap cung dep"
+    },
+    {
+      "id": 2,
+      "maRap": "bhd-cong-hoa",
+      "userName": "baoNam",
+      "text": "rap cung dep"
+    },
+    {
+      "id": 3,
+      "maRap": "bhd-cong-hoa",
+      "userName": "baoNam",
+      "text": "rap cung dep"
+    },
+    {
+      "maRap": "bhd-ton-duc-thang",
+      "userName": "minhPhuc",
+      "text": "de xem thu",
+      "createdAt": 1626197520659,
+      "updatedAt": 1626197520659,
+      "id": 4
+    },
+    {
+      "maRap": "bhd-ton-duc-thang",
+      "userName": "minhPhuc",
+      "text": "de xem thu",
+      "createdAt": 1626197532077,
+      "updatedAt": 1626197532078,
+      "id": 5
+    },
+    {
+      "maRap": "bhd-ton-duc-thang",
+      "userName": "minhPhuc",
+      "text": "de xem thu",
+      "createdAt": 1626240911023,
+      "updatedAt": 1626240911023,
+      "id": 6
+    },
+    {
+      "maRap": "bhd-ton-duc-thang",
+      "userName": "minhPhuc",
+      "text": "de xem thu",
+      "createdAt": 1626240913364,
+      "updatedAt": 1626240913364,
+      "id": 7
+    },
+    {
+      "maRap": "bhd-ton-duc-thang",
+      "userName": "minhPhuc",
+      "text": "de xem thu",
+      "createdAt": 1626240920762,
+      "updatedAt": 1626240920762,
+      "id": 8
+    },
+    {
+      "maRap": "bhd-ton-duc-thang",
+      "userName": "minhPhuc",
+      "text": "de xem thu",
+      "createdAt": 1626240922311,
+      "updatedAt": 1626240922311,
+      "id": 9
+    }
+  ],
+  "blogMoives": [
+    {
+      "id": 1,
+      "maPhim": 1324,
+      "userName": "thienBao",
+      "text": "phim cung duoc"
+    },
+    {
+      "maPhim": 1526,
+      "userName": "sang",
+      "text": "hay ko ta",
+      "createdAt": 1626240847346,
+      "updatedAt": 1626240847346,
+      "id": 2
+    },
+    {
+      "maPhim": 1526,
+      "userName": "sang",
+      "text": "hay ko ta",
+      "createdAt": 1626240848379,
+      "updatedAt": 1626240848379,
+      "id": 3
+    },
+    {
+      "maPhim": 1526,
+      "userName": "sang",
+      "text": "hay ko ta",
+      "createdAt": 1626240849244,
+      "updatedAt": 1626240849244,
+      "id": 4
+    }
+  ]
+}
