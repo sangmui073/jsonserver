@@ -32,7 +32,7 @@ Content-Type: application/json
     "maPhim":1324,
     "rate": 2,
     "like": [
-        "tranbaonam"
+        "alihoangduong","aydaucogmail"
     ],
     "userName": "thienBao",
     "text": "dien vien xau"
