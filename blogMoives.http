@@ -1,0 +1,35 @@
+##BlogMoives
+@baseUrl=http://localhost:3000/api/
+
+@resouce=blogMoives
+###
+
+# @name getCommentByMoive
+GET {{baseUrl}}{{resouce}}?maPhim=1324
+###
+
+# @name postCommentMoive
+POST {{baseUrl}}{{resouce}}
+Content-Type: application/json
+
+{
+    "maPhim":1324,
+    "rate": 2,
+    "like": 0,
+    "userName": "thienBao",
+    "text": "dien vien dep"
+}
+
+###
+
+# @name patchCommentMoive
+PATCH {{baseUrl}}{{resouce}}/3
+Content-Type: application/json
+
+{
+    "maPhim":1324,
+    "rate": 2,
+    "like": 0,
+    "userName": "thienBao",
+    "text": "dien vien xau"
+}

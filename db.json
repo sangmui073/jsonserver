@@ -309,18 +309,18 @@
     {
       "id": 2,
       "maRap": "bhd-star-cineplex-3-2",
-      "userName": "baoNam",
+      "userName": "thienBao",
       "text": "rap cung dep",
       "rate": 5,
       "like": 0
     },
     {
       "id": 3,
-      "maRap": "bhd-star-cineplex-vincom-quang-trung",
-      "userName": "baoNam",
-      "text": "rap cung dep",
-      "rate": 3,
-      "like": 1
+      "maRap": "bhd-star-cineplex-bitexco",
+      "userName": "thienBao",
+      "text": "Rap thieu lanh",
+      "rate": 2,
+      "like": 0
     },
     {
       "maRap": "bhd-star-cineplex-bitexco",
@@ -333,8 +333,8 @@
       "like": 2
     },
     {
-      "maRap": "bhd-star-cineplex-bitexco",
-      "userName": "minhPhuc",
+      "maRap": "bhd-star-cineplex-vincom-quang-trung",
+      "userName": "minhSang",
       "text": "de xem thu",
       "createdAt": 1626197532077,
       "updatedAt": 1626197532078,
@@ -344,7 +344,7 @@
     },
     {
       "maRap": "bhd-star-cineplex-pham-hung",
-      "userName": "minhPhuc",
+      "userName": "trang",
       "text": "de xem thu",
       "rate": 5,
       "like": 0,
@@ -353,7 +353,7 @@
       "id": 6
     },
     {
-      "maRap": "bhd-star-cineplex-pham-hung",
+      "maRap": "bhd-star-cineplex-vincom-le-van-viet",
       "rate": 3,
       "like": 0,
       "userName": "minhPhuc",
@@ -363,7 +363,7 @@
       "id": 7
     },
     {
-      "maRap": "bhd-star-cineplex-pham-hung",
+      "maRap": "bhd-star-cineplex-vincom-thao-dien",
       "rate": 5,
       "like": 2,
       "userName": "minhPhuc",
@@ -381,6 +381,16 @@
       "createdAt": 1626240922311,
       "updatedAt": 1626240922311,
       "id": 9
+    },
+    {
+      "maRap": "bhd-star-cineplex-bitexco",
+      "rate": 5,
+      "like": 3,
+      "userName": "thienBao",
+      "text": "rap cung mat do",
+      "createdAt": 1626337353369,
+      "updatedAt": 1626337353369,
+      "id": 10
     }
   ],
   "blogMoives": [
@@ -399,12 +409,14 @@
       "id": 2
     },
     {
-      "maPhim": 1526,
-      "userName": "sang",
-      "text": "hay ko ta",
+      "maPhim": 1324,
+      "userName": "thienBao",
+      "text": "dien vien xau",
       "createdAt": 1626240848379,
       "updatedAt": 1626240848379,
-      "id": 3
+      "id": 3,
+      "rate": 2,
+      "like": 0
     },
     {
       "maPhim": 1526,
@@ -413,6 +425,16 @@
       "createdAt": 1626240849244,
       "updatedAt": 1626240849244,
       "id": 4
+    },
+    {
+      "maPhim": 1324,
+      "rate": 2,
+      "like": 0,
+      "userName": "thienBao",
+      "text": "dien vien dep",
+      "createdAt": 1626337584322,
+      "updatedAt": 1626337584322,
+      "id": 5
     }
   ]
 }

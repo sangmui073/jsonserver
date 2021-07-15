@@ -1,0 +1,38 @@
+##BlogCinemas
+@baseUrl=http://localhost:3000/api/
+@rescouce=blogCinemas
+###
+
+# @name getCommentByCinemas
+GET {{baseUrl}}{{rescouce}}?maRap=bhd-star-cineplex-bitexco
+
+###
+# @name postCommentCinemas
+
+POST {{baseUrl}}{{rescouce}}
+Content-Type: application/json
+
+{
+    "maRap":"bhd-star-cineplex-bitexco",
+    "rate": 5,
+    "like": 3,
+    "userName": "thienBao",
+    "text": "rap cung mat do"
+}
+
+###
+
+# @name patchCommentCinema
+PATCH {{baseUrl}}{{rescouce}}/3
+Content-Type: application/json
+
+{
+    "maRap":"bhd-star-cineplex-bitexco",
+    "rate": 2,
+    "like": 0,
+    "userName": "thienBao",
+    "text": "Rap thieu lanh"
+}
+
+
+
