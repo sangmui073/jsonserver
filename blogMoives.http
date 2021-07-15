@@ -15,7 +15,9 @@ Content-Type: application/json
 {
     "maPhim":1324,
     "rate": 2,
-    "like": 0,
+    "like": [
+        "trangiathienbao"
+    ],
     "userName": "thienBao",
     "text": "dien vien dep"
 }
@@ -29,7 +31,9 @@ Content-Type: application/json
 {
     "maPhim":1324,
     "rate": 2,
-    "like": 0,
+    "like": [
+        "tranbaonam"
+    ],
     "userName": "thienBao",
     "text": "dien vien xau"
 }

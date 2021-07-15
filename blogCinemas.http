@@ -15,7 +15,9 @@ Content-Type: application/json
 {
     "maRap":"bhd-star-cineplex-bitexco",
     "rate": 5,
-    "like": 3,
+    "like": [
+        "aydaucogmail"
+    ],
     "userName": "thienBao",
     "text": "rap cung mat do"
 }
@@ -29,7 +31,9 @@ Content-Type: application/json
 {
     "maRap":"bhd-star-cineplex-bitexco",
     "rate": 2,
-    "like": 0,
+    "like": [
+        "dpnguyen15"
+    ],
     "userName": "thienBao",
     "text": "Rap thieu lanh"
 }

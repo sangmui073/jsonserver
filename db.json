@@ -304,7 +304,7 @@
       "userName": "baoNam",
       "text": "rap cung dep",
       "rate": 4,
-      "like": 2
+      "like": ["alihoangduong", "aydaucogmail", "thienBao"]
     },
     {
       "id": 2,
@@ -312,7 +312,7 @@
       "userName": "thienBao",
       "text": "rap cung dep",
       "rate": 5,
-      "like": 0
+      "like": ["thienBao", "buoichieudethem"]
     },
     {
       "id": 3,
@@ -320,17 +320,17 @@
       "userName": "thienBao",
       "text": "Rap thieu lanh",
       "rate": 2,
-      "like": 0
+      "like": ["aydaucogmail", "minhPhuc"]
     },
     {
-      "maRap": "bhd-star-cineplex-bitexco",
+      "maRap": "cgv-vivocity",
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626197520659,
       "updatedAt": 1626197520659,
       "id": 4,
       "rate": 4,
-      "like": 2
+      "like": ["caigidatroi", "alihoangduong"]
     },
     {
       "maRap": "bhd-star-cineplex-vincom-quang-trung",
@@ -339,7 +339,7 @@
       "createdAt": 1626197532077,
       "updatedAt": 1626197532078,
       "rate": 4,
-      "like": 1,
+      "like": ["dpnguyen158"],
       "id": 5
     },
     {
@@ -347,7 +347,7 @@
       "userName": "trang",
       "text": "de xem thu",
       "rate": 5,
-      "like": 0,
+      "like": ["dpnguyen15"],
       "createdAt": 1626240911023,
       "updatedAt": 1626240911023,
       "id": 6
@@ -355,7 +355,7 @@
     {
       "maRap": "bhd-star-cineplex-vincom-le-van-viet",
       "rate": 3,
-      "like": 0,
+      "like": ["dpdpdpdpdp"],
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240913364,
@@ -365,7 +365,7 @@
     {
       "maRap": "bhd-star-cineplex-vincom-thao-dien",
       "rate": 5,
-      "like": 2,
+      "like": ["doiemden"],
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240920762,
@@ -375,7 +375,7 @@
     {
       "maRap": "bhd-star-cineplex-bitexco",
       "rate": 5,
-      "like": 3,
+      "like": ["demhom123"],
       "userName": "minhPhuc",
       "text": "de xem thu",
       "createdAt": 1626240922311,
@@ -383,9 +383,9 @@
       "id": 9
     },
     {
-      "maRap": "bhd-star-cineplex-bitexco",
+      "maRap": "cgv-satra-cu-chi",
       "rate": 5,
-      "like": 3,
+      "like": ["con2trnag", "dasdkagk"],
       "userName": "thienBao",
       "text": "rap cung mat do",
       "createdAt": 1626337353369,
@@ -398,7 +398,8 @@
       "id": 1,
       "maPhim": 1324,
       "userName": "thienBao",
-      "text": "phim cung duoc"
+      "text": "phim cung duoc",
+      "like": ["alihoangduong"]
     },
     {
       "maPhim": 1526,
@@ -406,7 +407,8 @@
       "text": "hay ko ta",
       "createdAt": 1626240847346,
       "updatedAt": 1626240847346,
-      "id": 2
+      "id": 2,
+      "like": ["dpnguyen158"]
     },
     {
       "maPhim": 1324,
@@ -416,7 +418,7 @@
       "updatedAt": 1626240848379,
       "id": 3,
       "rate": 2,
-      "like": 0
+      "like": ["doiemden"]
     },
     {
       "maPhim": 1526,
@@ -424,12 +426,13 @@
       "text": "hay ko ta",
       "createdAt": 1626240849244,
       "updatedAt": 1626240849244,
-      "id": 4
+      "id": 4,
+      "like": ["caigidatroi"]
     },
     {
       "maPhim": 1324,
       "rate": 2,
-      "like": 0,
+      "like": ["thienBao"],
       "userName": "thienBao",
       "text": "dien vien dep",
       "createdAt": 1626337584322,
